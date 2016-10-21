@@ -1,0 +1,61 @@
+[
+	{
+		"question"	: "Iron Man is also known as: ",
+		"answers"	: [
+			{"id"	:0, "text":"Peter Parker"},
+			{"id"	:1, "text":"Nick Fury"},
+			{"id"	:2, "text":"Tony Stark"},
+			{"id"	:3, "text":"Clint Barton"}
+		],
+		"correct"	: 2
+	},
+	{
+		"question"	: "Iron Man can fly using ______ technology.",
+		"answers"	: [
+			{"id"	:0, "text":"Hover"},
+			{"id"	:1, "text":"Repulsor"},
+			{"id"	:2, "text":"Jet"},
+			{"id"	:3, "text":"Anti-gravity"}
+		],
+		"correct"	: 1
+	},
+	{
+		"question" : "Which image shows Iron Man's real identity?",
+		"answers"  : [
+			{"id"  : 0, "image" : "images/profile1.jpg" },
+			{"id"  : 1, "image" : "images/profile2.jpg" },
+			{"id"  : 2, "image" : "images/profile3.jpg" },
+			{"id"  : 3, "image" : "images/profile4.jpg" }
+		],
+		"correct"  : 3
+	},
+	{
+		"question" : "Iron Man first appeared in what year?",
+		"answers"  : [
+			{"id"  : 0, "text" : "1963"},
+			{"id"  : 1, "text" : "1945"},
+			{"id"  : 2, "text" : "1987"},
+			{"id"  : 3, "text" : "2008"}
+		],
+		"correct"  : 0,
+		"feedback" : "Iron Man first appeared in Marvel's Tales of Suspense."
+	},
+	{
+		"question" : "What is Tony Stark's father's name?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Bucky"},
+			{"id"  : 1, "text" : "Jarvis"},
+			{"id"  : 2, "text" : "Steve"},
+			{"id"  : 3, "text" : "Howard"}
+		],
+		"correct"  : 3
+	},
+	{
+		"question" : "Iron Man is known as 'The Invincible Iron Man'",
+		"answers"  : [
+			{"id"  : 0, "text" : "True"},
+			{"id"  : 1, "text" : "False"}
+		],
+		"correct"  : 0
+	}
+]
